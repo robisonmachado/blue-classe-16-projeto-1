@@ -1,0 +1,14 @@
+{
+  "name": "blue-classe-16-projeto-1",
+  "version": "1.0.0",
+  "description": "projeto 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robison Pereira Machado",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
